@@ -1,7 +1,6 @@
-# dataset.yaml
 path: ./  # The root directory for training and validation paths
-train: train/images  # Relative path from 'path' to training images
-val: val/images  # Relative path from 'path' to validation images
+train: train/images  # Path to training images
+val: val/images  # Path to validation images
 
 nc: 2  # Number of classes
 names: ['sleeper', 'clip']  # Names of the classes
