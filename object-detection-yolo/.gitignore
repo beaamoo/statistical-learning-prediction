@@ -1,0 +1,9 @@
+# VS Code
+.vscode/
+
+# Data and model directories
+datasets/
+runs/
+*.onnx
+*.pt
+
