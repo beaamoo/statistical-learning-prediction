@@ -1,0 +1,22 @@
+# .gitignore 
+
+# Ignore environment file
+.env
+venv/
+
+# Ignore model files
+*.h5
+*.json
+*.bin
+
+# Ignore logs
+logs/
+
+# Ignore pycache
+__pycache__/
+
+# Ignore zip files
+*.zip
+
+*.DS_Store
+
